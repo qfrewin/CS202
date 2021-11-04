@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Names: 
 Isaac Peterson
+=======
+Names: Quincey Frewin 
+>>>>>>> 79a017a7feffdb9e66d3ee198949a88927c237fa
